@@ -3,3 +3,4 @@
 - ANY
 - IN
 - EXISTS
+- VIEWS
